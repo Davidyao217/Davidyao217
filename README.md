@@ -3,7 +3,6 @@
 📍 **New York, NY** 
 
 ## Current Projects
-[Link Text](URL)
 - 📊 **[xls.sh](https://xls.sh/)** - A browser-based ephemeral spreadsheet tool designed for zero-login scratchwork
 - 🎯 **[Tech Pointed](https://davidyao217.github.io/tech-pointed/)** - A weekly technology news trivia game where players wager points based on confidence
 
