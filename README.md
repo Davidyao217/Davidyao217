@@ -1,6 +1,6 @@
 # Hi, I'm David 
 
-New York, NY | [LinkedIn](https://www.linkedin.com/in/d-yao/)
+NYC | [LinkedIn](https://www.linkedin.com/in/d-yao/)
 
 ## Current Projects
 - **[xls.sh](https://xls.sh/)** - A browser-based ephemeral spreadsheet tool designed for zero-login scratchwork
