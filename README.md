@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm David 
 
-<!--
-**Davidyao217/Davidyao217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **New York, NY** 
 
-Here are some ideas to get you started:
+## Current Projects
+[Link Text](URL)
+- 📊 **[xls.sh](https://xls.sh/)** - A browser-based ephemeral spreadsheet tool designed for zero-login scratchwork
+- 🎯 **[Tech Pointed](https://davidyao217.github.io/tech-pointed/)** - A weekly technology news trivia game where players wager points based on confidence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-yao/)
+
+## Archived
